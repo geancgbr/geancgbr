@@ -1,12 +1,5 @@
 <h1 align="center">Olá, bem vindo(a)! </h1>
 
-Sou um jovem desenvolvedor apaixonado por tecnologia, criatividade e com vontade de aprender e criar.
-
-No momento sou aluno do primeiro ano de Análise e Desenvolvimento de Sistemas, na Faculdade de Informática e Administração Paulista [FIAP](https://www.fiap.com.br). Minha principal responsabilidade é criar programas utilizando linguagens de programação como Python e Java.
-
-Todos os dias procuro evoluir e colaborar no desenvolvimento de projetos. Empenhado em aprender novas tecnologias, seja através de cursos, livros, artigos, podcasts e de mais conteúdos que podem influenciar no meu aprendizado constante.
-
-
 <div>
 <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=geancgbr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
 <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geancgbr&&layout=compact&hide=shell&theme=highcontrast">
