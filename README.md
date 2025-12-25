@@ -1,7 +1,7 @@
 <h1 align="center">Programmer</h1>
 
 <p align="center">
-  <em>Building mobile experiences with my favorite stacks Flutter, Kotlin & Swift — and backend services with Java.
+  <em>Building mobile experiences with my favorite stacks Flutter & Kotlin — and backend services with Java.
 </p>
 
 <p align="center">
