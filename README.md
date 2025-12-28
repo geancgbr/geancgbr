@@ -1,4 +1,4 @@
-<h1 align="center">Programmer</h1>
+<h1 align="center">Software Developer</h1>
 
 <p align="center">
   <em>Building mobile experiences with my favorite stacks Flutter, Kotlin & Swift — and backend services with Java.
